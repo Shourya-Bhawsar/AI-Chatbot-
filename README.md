@@ -101,6 +101,7 @@ This frontend UI:
 **Shourya Bhawsar**  
 Mechanical Engineer  
 *VIT Chennai – Class of 2026*  
+
 ---
 
 
