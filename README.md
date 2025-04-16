@@ -1,29 +1,66 @@
-# Travel ChatBot
+# 🌄 Madhya Pradesh Wanderer – Gemini Chatbot UI
 
-A simple chatbot application for travel-related queries, built with **Gemini Chatbot** API and styled using **Tailwind CSS**.
+A modern, responsive AI chatbot UI built with **HTML**, **Tailwind CSS**, and **JavaScript** — inspired by Google’s Gemini interface. This project acts as a smart travel assistant designed for discovering the beauty and culture of **Madhya Pradesh**.
 
-## Features
+---
 
-- **Dark Mode Toggle**: Switch between light and dark themes.
-- **Gemini Chatbot Integration**: Fetches responses from the Gemini Chatbot API.
-- **Responsive UI**: Designed to work well on both desktop and mobile devices.
-- **Loading Spinner**: Displays a loading animation when the bot is typing.
+## 🚀 Live Demo
 
-## Technologies Used
+> You can host this using GitHub Pages or any static hosting service.  
+> **Example:** `https://your-username.github.io/madhya-pradesh-wanderer/`
 
-- **Frontend**: HTML, CSS (Tailwind CSS)
-- **Backend**: Gemini Chatbot API
-- **JavaScript**: For handling API requests and DOM manipulation
-- **Tailwind CSS**: Utility-first CSS framework for styling.
+---
 
-## Setup Instructions
+## ✨ Features
 
-### 1. **Install Node.js and npm**
+- 🌙 **Dark Mode Toggle** (Auto-detect + Manual switch)
+- 💬 **Chat UI** styled for AI assistants like Gemini or ChatGPT
+- 🧊 **Glassmorphism** with rounded cards and shadows
+- ⚡ **Tailwind CSS** via CDN (no build tools needed)
+- 📱 **Responsive Layout** for desktop and mobile
+- 🧠 **Gemini-style Header** with animated typing area
+- 🧼 **Clear Chat** button
 
-Before setting up the project, ensure that **Node.js** and **npm** (Node Package Manager) are installed on your system.
+---
 
-- **Install Node.js**: Go to the [official Node.js website](https://nodejs.org/) and download the latest LTS version.
-- After installation, verify that both Node.js and npm are correctly installed:
-  ```bash
-  node --version
-  npm --version
+## 📁 File Structure
+
+```plaintext
+madhya-pradesh-wanderer/
+├── index.html        # Main HTML file with Tailwind & UI
+├── script.js         # JavaScript logic (dark mode, send message, clear)
+├── styles.css        # Optional custom CSS (if needed)
+└── README.md         # You're here!
+git clone https://github.com/your-username/madhya-pradesh-wanderer.git
+cd madhya-pradesh-wanderer
+<h1 class="text-xl font-semibold">Madhya Pradesh Wanderer</h1>
+tailwind.config = {
+  theme: {
+    extend: {
+      colors: {
+        primary: '#e63946',
+        accent: '#ffb703'
+      }
+    }
+  }
+}
+🧠 Use Case
+This project can serve as:
+
+A Gemini UI clone or showcase
+
+A smart tourism chatbot for cultural discovery
+
+A starter kit for AI assistant interfaces
+👨‍💻 Author
+Shourya Bhawsar
+VIT Chennai – Class of 2026
+🙏 Acknowledgements
+Tailwind CSS
+
+Google Fonts – Inter
+
+Heroicons
+
+Gemini AI UI (Design Inspiration)
+
