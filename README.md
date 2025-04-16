@@ -7,7 +7,7 @@ A modern, responsive AI chatbot UI built with **HTML**, **Tailwind CSS**, and **
 ## Live Demo
 
 > You can host this using GitHub Pages or any static hosting service.  
-> **Example:** `https://shourya-bhawsar.github.io/AI-Chatbot-/`
+> **Example:** https://shourya-bhawsar.github.io/AI-Chatbot-/
 
 ---
 
